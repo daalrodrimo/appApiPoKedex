@@ -1,0 +1,7 @@
+{
+  "name": "appAPIpoKedex",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
